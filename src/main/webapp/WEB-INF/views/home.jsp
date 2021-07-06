@@ -53,6 +53,21 @@
 
 
 
+	<!-- 컨트롤러 : FileuploadController.java -->
+	<h3>파일업로드</h3>
+	<li>
+		<a href="./fileUpload/uploadPath.do" target="_blank">
+		upload폴더의 물리적 경로 확인하기</a>
+	</li>
+	<li>
+		<a href="./fileUpload/uploadForm.do" target="_blank">
+		파일업로드 폼</a>
+	</li>
+	<li>
+		<a href="./fileUpload/uploadList.do" target="_blank">
+		파일 목록 보기</a>
+	</li>
+
 
 
 </body>
